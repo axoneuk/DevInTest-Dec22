@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Developer_In_Test_Dec_22.iml" filepath="$PROJECT_DIR$/Developer_In_Test_Dec_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1_AccessModifiers_and_Encapsulation/M1_AccessModifiers_and_Encapsulation.iml" filepath="$PROJECT_DIR$/M1_AccessModifiers_and_Encapsulation/M1_AccessModifiers_and_Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1_Classes_and_Objects/M1_Classes_and_Objects.iml" filepath="$PROJECT_DIR$/M1_Classes_and_Objects/M1_Classes_and_Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1_Collections/M1_Collections.iml" filepath="$PROJECT_DIR$/M1_Collections/M1_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1_DataTypes_and_Operators/M1_DataTypes_and_Operators.iml" filepath="$PROJECT_DIR$/M1_DataTypes_and_Operators/M1_DataTypes_and_Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1_Exception_Handling/M1_Exception_Handling.iml" filepath="$PROJECT_DIR$/M1_Exception_Handling/M1_Exception_Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1_File_Handling/M1_File_Handling.iml" filepath="$PROJECT_DIR$/M1_File_Handling/M1_File_Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1_FlowControl_and_Arrays/M1_FlowControl_and_Arrays.iml" filepath="$PROJECT_DIR$/M1_FlowControl_and_Arrays/M1_FlowControl_and_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1_Object_Oriented_Programming/M1_Object_Oriented_Programming.iml" filepath="$PROJECT_DIR$/M1_Object_Oriented_Programming/M1_Object_Oriented_Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1_String_Classes/M1_String_Classes.iml" filepath="$PROJECT_DIR$/M1_String_Classes/M1_String_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1_Structure_Of_Class/M1_Structure_Of_Class.iml" filepath="$PROJECT_DIR$/M1_Structure_Of_Class/M1_Structure_Of_Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1_TestNG/M1_TestNG.iml" filepath="$PROJECT_DIR$/M1_TestNG/M1_TestNG.iml" />
+    </modules>
+  </component>
+</project>
